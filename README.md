@@ -12,13 +12,4 @@ No external libraries needed – just run and enjoy the absurdity!
 
 
 
-```bash
 
-# Clone the repo
-git clone https://github.com/your-username/python-projects.git
-
-# Navigate to the project folder
-cd python-projects/your-project-folder
-
-# Run the script
-python your-script.py
