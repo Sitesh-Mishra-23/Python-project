@@ -6,7 +6,7 @@ This repository contains my Python projects. For now, it includes just one proje
 
 # Fake News Headline Generator 📰
 
-This is a fun Python project that generates random fake news-style headlines using the `random` library and predefined lists of subjects, actions, and locations. You can choose how many headlines to generate, and even save them to a file.
+This is a fun Python project which generates random fake news-style headlines using the `random` library and predefined lists of subjects, actions, and locations. You can choose how many headlines to generate, and even save them to a file.
 
 No external libraries needed – just run and enjoy the absurdity!
 
